@@ -2,14 +2,14 @@
     padding: 15px 15px 15px 15px;
     width: auto;
     border-radius: 10px;
-    display: flex;
+    flex-direction: column;
     word-wrap: wrap;
-    background-color: #0e0e0e;
+    background-color: #1f1f1f;
     flex-direction: row;
     flex-wrap: nowrap;
     max-width: 600px;
     margin:0 auto;
-    margin-top:200px ;
+    text-align: center;
 }
 
 a.button { 
@@ -17,7 +17,7 @@ a.button {
     padding:15px; 
     text-decoration: none; 
     border-radius: 10px; 
-    background-color: rgb(34, 34, 34); 
+    background-color: rgb(58, 58, 58); 
     margin:30px 0px 0px 0px ;
     display:block;
     max-width:10000 ;
@@ -27,5 +27,9 @@ img{
     width:120px;
     height: 120px;
     border-radius: 80px;
-    
+
+}
+
+body {
+    background-color:rgb(17, 17, 17) 
 }
