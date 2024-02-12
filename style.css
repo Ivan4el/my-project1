@@ -3,7 +3,6 @@
     width:400px;
     border-radius: 10px;
     flex-direction: column;
-    word-wrap: wrap;
     background-color: #1f1f1f;
     flex-direction: row;
     flex-wrap: nowrap;
